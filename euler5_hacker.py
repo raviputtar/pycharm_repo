@@ -3,8 +3,6 @@ import sys
 
 
 import math
-
-
 def check_prime(x):
     root = math.sqrt(x)
     i = 2
@@ -46,3 +44,8 @@ for i in range(0,t):
 
 for i in a:
     check_lcm(i)
+
+	
+	
+	#this has been edited
+	
