@@ -5,12 +5,13 @@ import os
 import random
 import re
 import sys
-from datetime import datetime
+import datetime
 
 
 # Complete the time_delta function below.
 def time_delta(t1, t2):
     d1_object = datetime.strptime(t1, '%a %d %b %Y %H:%M:%S %z')
+
     d2_object = datetime.strptime(t2, '%a %d %b %Y %H:%M:%S %z')
     unixtime_1 = datetime.utcfromtimestamp(time.mktime(d1_object.timetuple()))
     unixtime_2 =datetime.utcfromtimestamp(time.mktime(d2_object.timetuple()))
