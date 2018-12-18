@@ -12,10 +12,7 @@
     <bookmark url="file://$PROJECT_DIR$/int1.py" line="1" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="df0b4960-7940-4c34-8350-0955b1a33ee7" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/os_module.py" beforeDir="false" afterPath="$PROJECT_DIR$/os_module.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_random.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_random.py" afterDir="false" />
-    </list>
+    <list default="true" id="df0b4960-7940-4c34-8350-0955b1a33ee7" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -52,11 +49,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="os_module.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="os_module.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/os_module.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="13" lean-forward="true" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+            <state relative-caret-position="187">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
             </state>
           </provider>
         </entry>
@@ -65,7 +62,7 @@
         <entry file="file://$PROJECT_DIR$/test_random.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="306">
-              <caret line="18" column="43" lean-forward="true" selection-start-line="18" selection-start-column="43" selection-end-line="18" selection-end-column="43" />
+              <caret line="18" column="43" selection-start-line="18" selection-start-column="43" selection-end-line="18" selection-end-column="43" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
               </folding>
@@ -77,16 +74,16 @@
         <entry file="file://$PROJECT_DIR$/random.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="85">
-              <caret line="5" column="26" lean-forward="true" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+              <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="hacker_timedelta.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="hacker_timedelta.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/hacker_timedelta.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="561">
-              <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+            <state relative-caret-position="413">
+              <caret line="33" selection-start-line="33" selection-end-line="33" />
               <folding>
                 <element signature="e#1#12#0" expanded="true" />
               </folding>
@@ -196,7 +193,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="974" />
@@ -409,14 +406,14 @@
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49837664" weight="0.022655427" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.19441517" side_tool="true" visible="true" weight="0.46623093" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.80558485" visible="true" weight="0.46623093" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.19441517" side_tool="true" visible="true" weight="0.46078432" />
       <window_info anchor="bottom" id="Version Control" order="10" sideWeight="0.49789253" weight="0.32897604" />
       <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info id="Structure" order="1" sideWeight="0.5016234" side_tool="true" visible="true" weight="0.09325606" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.80558485" weight="0.46623093" />
+      <window_info id="Structure" order="1" sideWeight="0.5016234" side_tool="true" visible="true" weight="0.045837723" />
       <window_info anchor="bottom" id="Terminal" order="9" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4963119" weight="0.39869282" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4963119" weight="0.39869282" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -733,16 +730,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hacker_timedelta.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
-          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
-          <folding>
-            <element signature="e#1#12#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/hacker_htmltags.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
@@ -750,27 +737,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/random.py">
+    <entry file="file://$PROJECT_DIR$/os_module.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="26" lean-forward="true" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+        <state relative-caret-position="187">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test_random.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
-          <caret line="18" column="43" lean-forward="true" selection-start-line="18" selection-start-column="43" selection-end-line="18" selection-end-column="43" />
+          <caret line="18" column="43" selection-start-line="18" selection-start-column="43" selection-end-line="18" selection-end-column="43" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/os_module.py">
+    <entry file="file://$PROJECT_DIR$/random.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="13" lean-forward="true" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        <state relative-caret-position="85">
+          <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hacker_timedelta.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="413">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+          <folding>
+            <element signature="e#1#12#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
