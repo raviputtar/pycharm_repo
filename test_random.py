@@ -2,7 +2,6 @@ import unittest
 import random
 
 class test_ran(unittest.TestCase):
-
     def test_sum(self):
         result=random.myfunct(30,20,"sum")
         self.assertEqual(random.myfunct(-1,1,"sum"),0)
